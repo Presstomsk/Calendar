@@ -10,3 +10,5 @@
 
 Для оформления использовать CSS.
 
+ ![1](https://github.com/Presstomsk/Calendar/blob/main/Calendar.jpg)
+
